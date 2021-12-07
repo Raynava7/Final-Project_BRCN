@@ -27,7 +27,12 @@ The package requires:
 - numpy 1.6.2 or above
 - scipy 0.11 or above
 
-And the to install, type: python setup.py install
+And the to install, type: python setup.py install 
+----------------------------------
+## Distribution
+
+In the Report folder, you'll find the report made by Cortés Nava Brian Raymundo and Reyna Guillén Jennifer for the results obtained.
+In the tbnn folder, you'll find the scripts to rub the tbnn and the example of turbulence and the notebooks.
 
 ## Bibliography
 
