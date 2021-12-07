@@ -28,6 +28,7 @@ The package requires:
 - scipy 0.11 or above
 
 And the to install, type: python setup.py install 
+
 ----------------------------------
 ## Distribution
 
